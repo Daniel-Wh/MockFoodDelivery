@@ -300,6 +300,8 @@ header {
   text-decoration: none;
   color: #e67e22;
   font-weight: 500;
+  border-bottom: 2px transparent;
+  transition: border-bottom 0.2s;
 }
 
 .city-feature a:hover {
